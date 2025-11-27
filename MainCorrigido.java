@@ -9,7 +9,7 @@ public class MainCorrigido {
         System.out.println("\nPREPARE PARA TESTAR SEUS CONHECIMENTOS SOBRE O UNIVERSO ESPORTIVO E APRENDER SOBRE ESSE TEMA TÃO PRESENTE NA NOSSA VIDA");
 
 
-        System.out.println("Por favor digite seu nome");
+        System.out.println("Por favor digite seu username (pode conter numeros e letras) ");
         String nome = scanner.nextLine();
         System.out.println("Prazer em te conhecer " + nome + ", bora começar?");
         Thread.sleep(500);
